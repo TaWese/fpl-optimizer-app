@@ -1,0 +1,8 @@
+streamlit
+pulp
+pandas
+matplotlib
+seaborn
+fuzzywuzzy
+requests
+python-Levenshtein
